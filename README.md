@@ -1,9 +1,11 @@
 # API-Nodejs-Sample #
-Repositório do curso Criando APIs com Node e TypeScript da plataforma https://balta.io.
+Repositório de API com Node js
 
-Autor: André Baltieri
+Autor: Lester Cerioli
 
-Link: https://balta.io/cursos/7180
+link: https://github.com/LesterCerioli
+
+
 
 ## Projeto construído com: ##
 * Node
