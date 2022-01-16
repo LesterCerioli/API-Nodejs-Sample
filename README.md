@@ -20,6 +20,6 @@ link: https://github.com/LesterCerioli
 
 
 ---
-balta.io - Develop Your Career
+Lucas Technology Services
 
-Conheça todos os cursos da plataforma em https://balta.io/cursos
+Conheça todos os nossos serviços de Tecnologia
