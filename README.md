@@ -1,4 +1,4 @@
-# 7180 - Criando APIs com Node e TypeScript #
+# API-Nodejs-Sample #
 Repositório do curso Criando APIs com Node e TypeScript da plataforma https://balta.io.
 
 Autor: André Baltieri
