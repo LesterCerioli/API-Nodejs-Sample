@@ -7,19 +7,21 @@ link: https://github.com/LesterCerioli
 
 
 
-## Projeto construído com: ##
+## Continuous project with: ##
 * Node
 * TypeScript
 * Nest
 
-## Conteúdo deste Repositório ##
-* API: Código fonte da API
-* Chat: Código fonte do Chat
-* Postman: Pasta com chamadas ao postman
-* Script: Scripts pra geração do banco
+## Conteúdo of this repository ##
+* API: API source code
+* Chat: Chat source code
+* Postman: Folder with Postman calls
+* Script: Database generation scripts
 
 
 ---
 Lucas Technology Services
 
-Conheça todos os nossos serviços de Tecnologia
+Know everyone our technology services.
+
+Visit our website www.lucastecnologiaservices.com.br 
